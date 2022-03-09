@@ -1,4 +1,4 @@
-import {ReactComponent as Arrow } from '../../assets/image/arrow.svg';
+import { ReactComponent as Arrow } from "assets/img/arrow.svg";
 import './styles.css'
 
 function Pagination() {
